@@ -54,6 +54,9 @@ Step 7 - Go to develop branch and merge rebase branch to develop
 
 ![Step 10 - merge fast forward rebase onto develop](https://user-images.githubusercontent.com/59378799/190842112-8940f664-212d-4448-9d83-480b1df077c2.JPG)
 
+### Activity Six
+
+Link to my EP Repo: https://github.com/nafiomiah/ECE444-F2022-EP
 
 
 
